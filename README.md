@@ -1,12 +1,12 @@
 ## Youngmin Kim
 
-Python(FastAPI) 기반 B2B SaaS 백엔드 개발 3년+
+Python(FastAPI) 기반 B2B SaaS 백엔드 개발 3년+<br>
 레거시 재설계, API 성능 최적화, 금융권 보안 대응 경험
 
 ### Tech Stack
 
-**Backend** — Python, FastAPI, Java, Spring Boot
-**Database** — MySQL, MariaDB, SQLAlchemy 2.0 (async)
+**Backend** — Python, FastAPI, Java, Spring Boot<br>
+**Database** — MySQL, MariaDB, SQLAlchemy 2.0 (async)<br>
 **Tools** — Git, Docker, pytest, pre-commit
 
 ### Current
